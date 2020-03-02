@@ -3,7 +3,7 @@ udacity machine learning nano degree mini project in openai gym taxi environment
 # Machine Learning Engineer Nanodegree
 # Reinforcement Learning
 ## Project: OpenAI Taxi V2
-........
+..........
 ## Install
 
 This project requires **Python 3.7** and the following Python libraries installed:
